@@ -1,6 +1,7 @@
-````markdown
+
 # 🕵️‍♂️ Metadata Cleaner
 
+````markdown
 ╔════════════════════════════════════════════════╗  
    ⚡ Privacy Tool for Removing Hidden Metadata ⚡  
 ╚════════════════════════════════════════════════╝  
@@ -94,6 +95,7 @@ metadata-cleaner/
 MIT License – Free to use, modify, and distribute.
 
 ```
+
 
 
 
