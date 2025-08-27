@@ -2,9 +2,9 @@
 # 🕵️‍♂️ Metadata Cleaner
 
 
-╔════════════════════════════════════════════════╗  
+╔════════════════════════════════════════════╗  
    ⚡ Privacy Tool for Removing Hidden Metadata ⚡  
-╚════════════════════════════════════════════════╝  
+╚════════════════════════════════════════════╝  
 
 
 ---
@@ -84,6 +84,18 @@ metadata-cleaner/
 
 ---
 
+## 🔐 Security & Disclaimer
+
+⚠️ This project is provided for educational and ethical purposes only.
+
+It is designed to help individuals and businesses protect their privacy by removing metadata before sharing files.
+
+The author is not responsible for misuse of this tool.
+
+Always respect privacy laws and compliance requirements when handling sensitive data.
+
+---
+
 ## 🕶️ Author
 
 **Giuseppe** – Mathematics Graduate & Aspiring Security Engineer
@@ -98,6 +110,7 @@ metadata-cleaner/
 MIT License – Free to use, modify, and distribute.
 
 ```
+
 
 
 
