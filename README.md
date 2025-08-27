@@ -5,6 +5,7 @@
 ╔════════════════════════════════════════════════╗  
    ⚡ Privacy Tool for Removing Hidden Metadata ⚡  
 ╚════════════════════════════════════════════════╝  
+```
 
 A lightweight **privacy-first tool** that strips hidden metadata from common file types (PDF, DOCX, Images).  
 Think of it as a **digital bleach** for your sensitive files — before sharing them online or sending to clients.  
@@ -95,6 +96,7 @@ metadata-cleaner/
 MIT License – Free to use, modify, and distribute.
 
 ```
+
 
 
 
