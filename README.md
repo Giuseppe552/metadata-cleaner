@@ -1,6 +1,3 @@
-Perfect, let’s make your README.md shine.
-Here’s a **full copy-paste README** that is hacker-style ⚡ but also polished and professional enough to impress employers:
-
 ````markdown
 # 🕵️‍♂️ Metadata Cleaner
 
@@ -97,5 +94,6 @@ metadata-cleaner/
 MIT License – Free to use, modify, and distribute.
 
 ```
+
 
 
