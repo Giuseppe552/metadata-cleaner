@@ -30,6 +30,19 @@ Think of it as a **digital bleach** for your sensitive files — before sharing 
 
 ---
 
+## ❓ Why Metadata Matters
+Metadata is often invisible to the user but can reveal **sensitive information** that compromises privacy and security.  
+
+Here are real-world risks:  
+- 📍 **Location Data**: Photos often store GPS coordinates, exposing your home, office, or routes.  
+- 🧑 **Identity Leaks**: Author names, company accounts, or usernames hidden in PDF/DOCX properties.  
+- 🕵️ **Tracking & Profiling**: Adversaries or attackers can use metadata to link files back to you.  
+- ⚖️ **Legal & Compliance**: Sensitive metadata accidentally shared could violate GDPR or client confidentiality.  
+
+💡 By cleaning metadata before sharing, you **minimize attack surfaces**, protect personal data, and maintain professional privacy hygiene.
+
+---
+
 ## ⚙️ Installation
 Clone the repo and install dependencies:
 
@@ -110,6 +123,7 @@ Always respect privacy laws and compliance requirements when handling sensitive 
 MIT License – Free to use, modify, and distribute.
 
 ```
+
 
 
 
